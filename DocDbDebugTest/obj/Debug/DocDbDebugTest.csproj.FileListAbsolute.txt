@@ -1,0 +1,10 @@
+c:\users\steve\documents\visual studio 2015\Projects\DocDbDebugTest\DocDbDebugTest\bin\Debug\DocDbDebugTest.exe.config
+c:\users\steve\documents\visual studio 2015\Projects\DocDbDebugTest\DocDbDebugTest\bin\Debug\DocDbDebugTest.exe
+c:\users\steve\documents\visual studio 2015\Projects\DocDbDebugTest\DocDbDebugTest\bin\Debug\DocDbDebugTest.pdb
+c:\users\steve\documents\visual studio 2015\Projects\DocDbDebugTest\DocDbDebugTest\obj\Debug\DocDbDebugTest.csprojResolveAssemblyReference.cache
+c:\users\steve\documents\visual studio 2015\Projects\DocDbDebugTest\DocDbDebugTest\obj\Debug\DocDbDebugTest.exe
+c:\users\steve\documents\visual studio 2015\Projects\DocDbDebugTest\DocDbDebugTest\obj\Debug\DocDbDebugTest.pdb
+c:\users\steve\documents\visual studio 2015\Projects\DocDbDebugTest\DocDbDebugTest\bin\Debug\Microsoft.Azure.Documents.Client.dll
+c:\users\steve\documents\visual studio 2015\Projects\DocDbDebugTest\DocDbDebugTest\bin\Debug\Newtonsoft.Json.dll
+c:\users\steve\documents\visual studio 2015\Projects\DocDbDebugTest\DocDbDebugTest\bin\Debug\Microsoft.Azure.Documents.Client.xml
+c:\users\steve\documents\visual studio 2015\Projects\DocDbDebugTest\DocDbDebugTest\bin\Debug\Newtonsoft.Json.xml
